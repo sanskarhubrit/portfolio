@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanskar Shukla | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Sanskar Shukla</h1>
+        <p>AI Developer | Cloud & Security Enthusiast</p>
+    </header>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            Results-oriented tech enthusiast with a strong skill set in HTML, CSS,
+            Python, SQL, Oracle Live, PHP, and fundamental AI principles.
+            Specialized in cloud computing and cloud security with a passion
+            for emerging technologies and building secure, scalable solutions.
+        </p>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>Data Structures & Algorithms</li>
+            <li>HTML, CSS, PHP</li>
+            <li>SQL & Oracle Live</li>
+            <li>Windows & Linux</li>
+            <li>Cloud Computing</li>
+            <li>GitHub</li>
+        </ul>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="projects">
+        <h2>Projects</h2>
+
+        <div class="project-card">
+            <h3>Intrusion Detection System</h3>
+            <p>
+                Developed an Intrusion Detection System to monitor network activity
+                and detect suspicious behavior. The project focuses on enhancing
+                system security by identifying potential threats using rule-based
+                and analytical techniques.
+            </p>
+            <p><strong>Technologies Used:</strong> Python, Networking Concepts, Security Fundamentals</p>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section class="education">
+        <h2>Education</h2>
+
+        <div class="edu-box">
+            <h3>B.Tech – Computer Science Engineering (AI)</h3>
+            <p>Shri Vaishnav Vidhyapeeth Vishwavidhyalaya</p>
+            <span>2021 – 2025 | CGPA: 8.2</span>
+        </div>
+
+        <div class="edu-box">
+            <h3>Higher Secondary Education (CBSE)</h3>
+            <p>St. Paul Higher Secondary School, Indore</p>
+            <span>12th: 80% | 2020 – 2021</span>
+        </div>
+
+        <div class="edu-box">
+            <h3>Secondary Education (CBSE)</h3>
+            <p>St. Paul Higher Secondary School, Indore</p>
+            <span>10th: 83% | 2018 – 2019</span>
+        </div>
+    </section>
+
+    <!-- Certifications Section -->
+    <section class="achievements">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Introduction to Python – IBMCE</li>
+            <li>Cloud Application Developer – IBMCE</li>
+            <li>Microservice Architecture & Implementation – IBMCE</li>
+            <li>MATLAB Beginners – Infosys Springboard</li>
+            <li>Introduction to Operating Systems – NPTEL</li>
+            <li>Cloud Computing – NPTEL</li>
+            <li>Soft Skills – NPTEL</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact">
+        <h2>Contact</h2>
+        <p><strong>Phone:</strong> 9669797086</p>
+        <p><strong>Email:</strong>
+            <a href="mailto:Sanskarshukla271202@gmail.com">
+                Sanskarshukla271202@gmail.com
+            </a>
+        </p>
+        <p><strong>Languages Known:</strong> Hindi, English</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Sanskar Shukla | Portfolio</p>
+    </footer>
+
+</body>
+</html>
+
